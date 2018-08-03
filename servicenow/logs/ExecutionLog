@@ -1,0 +1,804 @@
+13/03/2018 18:59:36 ExecutionLog ************************ Logging Started (Tue Mar 13 18:59:36 IST 2018) **********************
+13/03/2018 18:59:37 ExecutionLog Ready to start Bot govern job
+13/03/2018 18:59:40 ExecutionLog Successfully posted results to Bot Govern
+13/03/2018 18:59:40 ExecutionLog Bot govern job ended
+13/03/2018 19:00:01 ExecutionLog Chrome browser is selected
+13/03/2018 19:00:02 ExecutionLog Entered Login screen
+13/03/2018 19:00:16 ExecutionLog Navigated to User Homepage
+13/03/2018 19:00:19 ExecutionLog Navigated to Incidents Page
+13/03/2018 19:00:19 ExecutionLog No tickets to be assigned
+13/03/2018 19:00:20 ExecutionLog Excel sheet has been updated
+13/03/2018 19:00:20 ExecutionLog Ready to end Bot govern job
+13/03/2018 19:00:20 ExecutionLog Successfully posted results to Bot Govern
+13/03/2018 19:00:20 ExecutionLog There are no ticket assignment details to post to Bot Govern
+13/03/2018 19:00:20 ExecutionLog Bot govern job ended
+13/03/2018 19:00:20 ExecutionLog ************************ Logging Ended (Tue Mar 13 19:00:19 IST 2018)************************
+14/03/2018 11:15:40 ExecutionLog ************************ Logging Started (Wed Mar 14 11:15:40 IST 2018) **********************
+14/03/2018 11:15:41 ExecutionLog Successfully closed ResultSet/Connection
+14/03/2018 11:15:41 ExecutionLog Successfully closed ResultSet/Connection
+14/03/2018 11:15:41 ExecutionLog Ready to start Bot govern job
+14/03/2018 11:15:44 ExecutionLog Successfully posted results to Bot Govern
+14/03/2018 11:15:44 ExecutionLog Bot govern job ended
+14/03/2018 11:16:04 ExecutionLog Chrome browser is selected
+14/03/2018 11:16:04 ExecutionLog Entered Login screen
+14/03/2018 11:16:41 ExecutionLog Navigated to User Homepage
+14/03/2018 11:16:45 ExecutionLog Navigated to Incidents Page
+14/03/2018 11:16:45 ExecutionLog No tickets to be assigned
+14/03/2018 11:16:47 ExecutionLog Excel sheet has been updated
+14/03/2018 11:16:47 ExecutionLog Ready to end Bot govern job
+14/03/2018 11:16:47 ExecutionLog Successfully posted results to Bot Govern
+14/03/2018 11:16:47 ExecutionLog There are no ticket assignment details to post to Bot Govern
+14/03/2018 11:16:47 ExecutionLog Bot govern job ended
+14/03/2018 11:16:47 ExecutionLog ************************ Logging Ended (Wed Mar 14 11:16:45 IST 2018)************************
+
+
+
+22/03/2018 14:30:53 ExecutionLog ************************ Logging Started (Thu Mar 22 14:30:53 IST 2018) **********************
+22/03/2018 14:30:55 ExecutionLog Successfully closed ResultSet/Connection
+22/03/2018 14:30:55 ExecutionLog Successfully closed ResultSet/Connection
+22/03/2018 14:31:11 ExecutionLog Chrome browser is selected
+22/03/2018 14:31:11 ExecutionLog Entered Login screen
+22/03/2018 14:31:26 ExecutionLog Navigated to User Homepage
+22/03/2018 14:31:31 ExecutionLog Navigated to Incidents Page
+22/03/2018 14:31:32 ExecutionLog No tickets to be assigned
+22/03/2018 14:31:32 ExecutionLog Excel sheet has been updated
+22/03/2018 14:31:32 ExecutionLog ************************ Logging Ended (Thu Mar 22 14:31:32 IST 2018)************************
+03/05/2018 11:45:56 ExecutionLog LoginPage elements initiated by Page Factory
+03/05/2018 12:14:42 ExecutionLog LoginPage elements initiated by Page Factory
+03/05/2018 12:18:14 ExecutionLog LoginPage elements initiated by Page Factory
+03/05/2018 12:19:45 ExecutionLog LoginPage elements initiated by Page Factory
+03/05/2018 12:39:47 ExecutionLog LoginPage elements initiated by Page Factory
+03/05/2018 13:15:42 ExecutionLog LoginPage elements initiated by Page Factory
+03/05/2018 14:17:27 ExecutionLog LoginPage elements initiated by Page Factory
+03/05/2018 14:39:04 ExecutionLog LoginPage elements initiated by Page Factory
+03/05/2018 14:40:02 ExecutionLog LoginPage elements initiated by Page Factory
+03/05/2018 16:43:01 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 11:03:16 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 11:38:02 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 12:06:07 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 16:42:07 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 16:45:04 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 17:03:40 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 17:21:07 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 17:21:41 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 17:24:47 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 17:29:28 ExecutionLog LoginPage elements initiated by Page Factory
+04/05/2018 18:44:35 ExecutionLog LoginPage elements initiated by Page Factory
+07/05/2018 15:00:53 ExecutionLog LoginPage elements initiated by Page Factory
+07/05/2018 15:03:22 ExecutionLog LoginPage elements initiated by Page Factory
+08/05/2018 13:14:38 ExecutionLog LoginPage elements initiated by Page Factory
+08/05/2018 13:21:09 ExecutionLog LoginPage elements initiated by Page Factory
+08/05/2018 13:30:44 ExecutionLog LoginPage elements initiated by Page Factory
+08/05/2018 14:54:40 ExecutionLog LoginPage elements initiated by Page Factory
+08/05/2018 15:19:15 ExecutionLog LoginPage elements initiated by Page Factory
+08/05/2018 15:29:50 ExecutionLog LoginPage elements initiated by Page Factory
+09/05/2018 12:36:12 ExecutionLog LoginPage elements initiated by Page Factory
+09/05/2018 18:06:06 ExecutionLog LoginPage elements initiated by Page Factory
+09/05/2018 18:12:34 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 11:22:41 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 11:33:12 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 11:41:22 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:14:44 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:16:10 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:20:06 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:23:33 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:24:30 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:29:38 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:40:32 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:45:22 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:50:03 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:51:36 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:54:06 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 13:56:22 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 14:58:10 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 15:00:35 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 15:07:05 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 15:08:47 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 19:15:02 ExecutionLog LoginPage elements initiated by Page Factory
+10/05/2018 19:24:44 ExecutionLog LoginPage elements initiated by Page Factory
+11/05/2018 13:17:13 ExecutionLog LoginPage elements initiated by Page Factory
+11/05/2018 14:34:32 ExecutionLog LoginPage elements initiated by Page Factory
+11/05/2018 14:55:00 ExecutionLog Started
+11/05/2018 14:55:00 ExecutionLog Closure : 21
+11/05/2018 14:55:00 ExecutionLog Finished
+11/05/2018 14:59:41 ExecutionLog Started
+11/05/2018 14:59:42 ExecutionLog Closure : 21
+11/05/2018 14:59:42 ExecutionLog Finished
+11/05/2018 15:14:23 ExecutionLog LoginPage elements initiated by Page Factory
+11/05/2018 15:20:19 ExecutionLog LoginPage elements initiated by Page Factory
+11/05/2018 15:30:51 ExecutionLog LoginPage elements initiated by Page Factory
+11/05/2018 15:31:10 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+11/05/2018 15:31:10 ExecutionLog After JSWaiter.waitUntilAngularReady();
+11/05/2018 15:31:10 ExecutionLog After lib.SwitchToFrame("gsft_main");
+11/05/2018 15:31:11 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+11/05/2018 15:31:11 ExecutionLog ticketCount : 5
+11/05/2018 15:31:11 ExecutionLog ExcelUtil.getClosureData();
+11/05/2018 15:32:06 ExecutionLog LoginPage elements initiated by Page Factory
+11/05/2018 15:32:24 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+11/05/2018 15:32:24 ExecutionLog After JSWaiter.waitUntilAngularReady();
+11/05/2018 15:32:24 ExecutionLog After lib.SwitchToFrame("gsft_main");
+11/05/2018 15:32:25 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+11/05/2018 15:32:25 ExecutionLog ticketCount : 5
+11/05/2018 15:32:26 ExecutionLog ExcelUtil.getClosureData();
+
+
+
+11/05/2018 19:18:29 ExecutionLog LoginPage elements initiated by Page Factory
+11/05/2018 19:18:32 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+11/05/2018 19:18:35 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+11/05/2018 19:18:36 ExecutionLog After JSWaiter.waitUntilAngularReady();
+11/05/2018 19:18:36 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+11/05/2018 19:18:36 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+11/05/2018 19:19:34 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+11/05/2018 19:19:35 ExecutionLog After JSWaiter.waitUntilAngularReady();
+11/05/2018 19:19:36 ExecutionLog After lib.SwitchToFrame("gsft_main");
+11/05/2018 19:19:36 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+11/05/2018 19:19:36 ExecutionLog ticketCount : 0
+11/05/2018 19:19:56 ExecutionLog ExcelUtil.getClosureData();
+
+
+
+11/05/2018 19:26:53 ExecutionLog LoginPage elements initiated by Page Factory
+11/05/2018 19:26:55 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+11/05/2018 19:27:01 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+11/05/2018 19:27:01 ExecutionLog After JSWaiter.waitUntilAngularReady();
+11/05/2018 19:27:01 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+11/05/2018 19:27:02 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+11/05/2018 19:27:26 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+11/05/2018 19:27:58 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+11/05/2018 19:27:58 ExecutionLog After JSWaiter.waitUntilAngularReady();
+11/05/2018 19:27:58 ExecutionLog After lib.SwitchToFrame("gsft_main");
+11/05/2018 19:27:59 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+11/05/2018 19:27:59 ExecutionLog ticketCount : 0
+11/05/2018 19:28:00 ExecutionLog ExcelUtil.getClosureData();
+
+
+
+11/05/2018 19:28:21 ExecutionLog LoginPage elements initiated by Page Factory
+11/05/2018 19:28:23 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+11/05/2018 19:28:29 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+11/05/2018 19:28:30 ExecutionLog After JSWaiter.waitUntilAngularReady();
+11/05/2018 19:28:30 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+11/05/2018 19:28:30 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+11/05/2018 19:28:41 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+11/05/2018 19:28:41 ExecutionLog After JSWaiter.waitUntilAngularReady();
+11/05/2018 19:28:41 ExecutionLog After lib.SwitchToFrame("gsft_main");
+11/05/2018 19:28:42 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+11/05/2018 19:28:42 ExecutionLog ticketCount : 0
+11/05/2018 19:28:43 ExecutionLog ExcelUtil.getClosureData();
+15/05/2018 11:27:59 ExecutionLog LoginPage elements initiated by Page Factory
+15/05/2018 11:28:01 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+15/05/2018 11:28:03 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+15/05/2018 11:28:05 ExecutionLog After JSWaiter.waitUntilAngularReady();
+15/05/2018 11:28:05 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+15/05/2018 11:28:05 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+15/05/2018 11:28:37 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+15/05/2018 12:18:26 ExecutionLog LoginPage elements initiated by Page Factory
+15/05/2018 12:18:32 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+15/05/2018 12:18:32 ExecutionLog After JSWaiter.waitUntilAngularReady();
+15/05/2018 12:18:32 ExecutionLog After lib.SwitchToFrame("gsft_main");
+15/05/2018 12:18:43 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+15/05/2018 12:18:43 ExecutionLog ticketCount : 3
+15/05/2018 12:18:43 ExecutionLog ExcelUtil.getClosureData();
+15/05/2018 12:24:54 ExecutionLog LoginPage elements initiated by Page Factory
+15/05/2018 12:25:16 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+15/05/2018 12:25:24 ExecutionLog After JSWaiter.waitUntilAngularReady();
+15/05/2018 12:25:26 ExecutionLog After lib.SwitchToFrame("gsft_main");
+15/05/2018 12:25:29 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+15/05/2018 12:25:34 ExecutionLog ticketCount : 3
+15/05/2018 12:25:40 ExecutionLog ExcelUtil.getClosureData();
+15/05/2018 13:29:59 ExecutionLog LoginPage elements initiated by Page Factory
+15/05/2018 13:30:01 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+15/05/2018 13:30:06 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+15/05/2018 13:30:07 ExecutionLog After JSWaiter.waitUntilAngularReady();
+15/05/2018 13:30:07 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+15/05/2018 13:30:07 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+15/05/2018 13:30:11 ExecutionLog incMapArea : true
+15/05/2018 13:30:11 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+15/05/2018 13:30:11 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+15/05/2018 13:30:12 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+15/05/2018 13:31:55 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+15/05/2018 13:31:55 ExecutionLog After JSWaiter.waitUntilAngularReady();
+15/05/2018 13:31:55 ExecutionLog After lib.SwitchToFrame("gsft_main");
+15/05/2018 13:31:56 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+15/05/2018 13:31:56 ExecutionLog ticketCount : 4
+15/05/2018 13:31:57 ExecutionLog ExcelUtil.getClosureData();
+21/05/2018 11:56:40 ExecutionLog LoginPage elements initiated by Page Factory
+21/05/2018 11:56:43 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+21/05/2018 11:56:49 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+21/05/2018 11:56:50 ExecutionLog After JSWaiter.waitUntilAngularReady();
+21/05/2018 11:56:50 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+21/05/2018 11:56:50 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+21/05/2018 11:56:54 ExecutionLog incMapArea : true
+21/05/2018 11:56:54 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+21/05/2018 11:56:54 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+21/05/2018 11:56:55 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+21/05/2018 13:34:17 ExecutionLog LoginPage elements initiated by Page Factory
+21/05/2018 16:43:12 ExecutionLog LoginPage elements initiated by Page Factory
+21/05/2018 16:43:14 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+21/05/2018 16:43:19 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+21/05/2018 16:43:20 ExecutionLog After JSWaiter.waitUntilAngularReady();
+21/05/2018 16:43:20 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+21/05/2018 16:43:21 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+21/05/2018 16:43:24 ExecutionLog incMapArea : true
+21/05/2018 16:43:24 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+21/05/2018 16:43:25 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+21/05/2018 16:43:26 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+23/05/2018 15:15:10 ExecutionLog LoginPage elements initiated by Page Factory
+23/05/2018 15:52:55 ExecutionLog LoginPage elements initiated by Page Factory
+23/05/2018 15:53:00 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+23/05/2018 15:53:06 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+23/05/2018 15:53:06 ExecutionLog After JSWaiter.waitUntilAngularReady();
+23/05/2018 15:53:06 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+23/05/2018 15:53:06 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+23/05/2018 15:53:10 ExecutionLog incMapArea : true
+23/05/2018 15:53:10 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+23/05/2018 15:53:10 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+23/05/2018 15:53:11 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+23/05/2018 15:54:39 ExecutionLog LoginPage elements initiated by Page Factory
+23/05/2018 15:54:42 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+23/05/2018 15:54:46 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+23/05/2018 15:54:47 ExecutionLog After JSWaiter.waitUntilAngularReady();
+23/05/2018 15:54:47 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+23/05/2018 15:54:47 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+23/05/2018 15:54:51 ExecutionLog incMapArea : true
+23/05/2018 15:54:51 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+23/05/2018 15:54:51 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+23/05/2018 15:54:52 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+23/05/2018 16:09:18 ExecutionLog LoginPage elements initiated by Page Factory
+23/05/2018 16:09:21 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+23/05/2018 16:09:26 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+23/05/2018 16:09:27 ExecutionLog After JSWaiter.waitUntilAngularReady();
+23/05/2018 16:09:27 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+23/05/2018 16:09:27 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+23/05/2018 16:09:30 ExecutionLog incMapArea : true
+23/05/2018 16:09:30 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+23/05/2018 16:09:31 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+23/05/2018 16:09:32 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+28/05/2018 16:18:08 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 16:18:10 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+28/05/2018 16:18:17 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+28/05/2018 16:18:17 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 16:18:18 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+28/05/2018 16:18:18 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+28/05/2018 16:18:29 ExecutionLog incMapArea : false
+28/05/2018 16:19:31 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+28/05/2018 16:19:31 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 16:19:31 ExecutionLog After lib.SwitchToFrame("gsft_main");
+28/05/2018 16:19:33 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+28/05/2018 16:19:33 ExecutionLog ticketCount : 0
+28/05/2018 16:19:34 ExecutionLog ExcelUtil.getClosureData();
+28/05/2018 16:26:00 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 16:26:50 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+28/05/2018 16:26:52 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 16:26:54 ExecutionLog After lib.SwitchToFrame("gsft_main");
+28/05/2018 16:26:59 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+28/05/2018 16:39:37 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 16:39:40 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+28/05/2018 16:39:45 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+28/05/2018 16:39:45 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 16:39:45 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+28/05/2018 16:39:46 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+28/05/2018 16:39:58 ExecutionLog incMapArea : false
+28/05/2018 16:40:09 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 16:40:18 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+28/05/2018 16:40:18 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 16:40:18 ExecutionLog After lib.SwitchToFrame("gsft_main");
+28/05/2018 16:40:19 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+28/05/2018 16:40:20 ExecutionLog ticketCount : 0
+28/05/2018 16:40:21 ExecutionLog ExcelUtil.getClosureData();
+28/05/2018 16:48:24 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 16:48:33 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+28/05/2018 16:48:33 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 16:48:33 ExecutionLog After lib.SwitchToFrame("gsft_main");
+28/05/2018 16:48:35 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+28/05/2018 16:48:36 ExecutionLog ticketCount : 0
+28/05/2018 16:48:37 ExecutionLog ExcelUtil.getClosureData();
+28/05/2018 16:49:13 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 16:49:28 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+28/05/2018 16:49:29 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 16:49:40 ExecutionLog After lib.SwitchToFrame("gsft_main");
+28/05/2018 16:49:55 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+28/05/2018 16:50:44 ExecutionLog ticketCount : 36
+28/05/2018 16:51:18 ExecutionLog ExcelUtil.getClosureData();
+28/05/2018 16:52:59 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 16:53:17 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+28/05/2018 16:53:20 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 16:53:25 ExecutionLog After lib.SwitchToFrame("gsft_main");
+28/05/2018 16:53:32 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+28/05/2018 16:54:01 ExecutionLog ticketCount : 36
+28/05/2018 16:54:12 ExecutionLog ExcelUtil.getClosureData();
+28/05/2018 17:00:10 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 17:00:13 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+28/05/2018 17:00:18 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+28/05/2018 17:00:19 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 17:00:19 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+28/05/2018 17:00:19 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+28/05/2018 17:00:22 ExecutionLog incMapArea : true
+28/05/2018 17:00:22 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+28/05/2018 17:00:22 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+28/05/2018 17:00:24 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+28/05/2018 17:00:39 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 17:00:47 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+28/05/2018 17:00:47 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 17:00:47 ExecutionLog After lib.SwitchToFrame("gsft_main");
+28/05/2018 17:00:49 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+28/05/2018 17:00:49 ExecutionLog ticketCount : 0
+28/05/2018 17:00:50 ExecutionLog ExcelUtil.getClosureData();
+28/05/2018 17:01:32 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 17:01:48 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+28/05/2018 17:01:50 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 17:01:51 ExecutionLog After lib.SwitchToFrame("gsft_main");
+28/05/2018 17:01:53 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+28/05/2018 17:06:24 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 17:06:39 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+28/05/2018 17:06:43 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 17:06:45 ExecutionLog After lib.SwitchToFrame("gsft_main");
+28/05/2018 17:06:50 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+28/05/2018 17:07:12 ExecutionLog ticketCount : 40
+28/05/2018 17:07:13 ExecutionLog ExcelUtil.getClosureData();
+28/05/2018 17:10:00 ExecutionLog Exception : 
+java.lang.IndexOutOfBoundsException: Index: 40, Size: 40
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at test.ResolveTickets.close(ResolveTickets.java:104)
+	at test.Driver.main(Driver.java:28)
+28/05/2018 17:11:48 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 17:11:51 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+28/05/2018 17:11:55 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+28/05/2018 17:11:56 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 17:11:56 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+28/05/2018 17:11:56 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+28/05/2018 17:12:00 ExecutionLog incMapArea : true
+28/05/2018 17:12:00 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+28/05/2018 17:12:00 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+28/05/2018 17:12:01 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+28/05/2018 17:12:29 ExecutionLog LoginPage elements initiated by Page Factory
+28/05/2018 17:12:37 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+28/05/2018 17:12:37 ExecutionLog After JSWaiter.waitUntilAngularReady();
+28/05/2018 17:12:37 ExecutionLog After lib.SwitchToFrame("gsft_main");
+28/05/2018 17:12:38 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+28/05/2018 17:12:38 ExecutionLog ticketCount : 0
+28/05/2018 17:12:39 ExecutionLog ExcelUtil.getClosureData();
+29/05/2018 11:50:53 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 11:50:55 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 11:51:42 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 11:52:14 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 11:52:16 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 11:52:21 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 11:52:21 ExecutionLog After JSWaiter.waitUntilAngularReady();
+29/05/2018 11:52:22 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+29/05/2018 11:52:22 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 11:52:26 ExecutionLog incMapArea : true
+29/05/2018 11:52:26 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 11:52:26 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+29/05/2018 11:52:28 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+29/05/2018 11:55:43 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.SelfService.myWork);
+29/05/2018 11:55:43 ExecutionLog After JSWaiter.waitUntilAngularReady();
+29/05/2018 11:55:43 ExecutionLog After lib.SwitchToFrame("gsft_main");
+29/05/2018 11:55:44 ExecutionLog After lib.waitForPresenceOfElement(GLSAPPage.tasksHeader, 10);
+29/05/2018 11:55:44 ExecutionLog ticketCount : 14
+29/05/2018 11:55:46 ExecutionLog ExcelUtil.getClosureData();
+29/05/2018 12:05:26 ExecutionLog **************** Ticket Routing start *****************
+29/05/2018 12:05:34 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 12:05:36 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 12:05:42 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 12:05:43 ExecutionLog After JSWaiter.waitUntilAngularReady();
+29/05/2018 12:05:43 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+29/05/2018 12:05:43 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 12:05:47 ExecutionLog incMapArea : true
+29/05/2018 12:05:47 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 12:05:47 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+29/05/2018 12:05:57 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+29/05/2018 12:07:25 ExecutionLog Exception : 
+java.lang.NullPointerException
+	at test.RouteTickets.route(RouteTickets.java:94)
+	at test.Driver.main(Driver.java:27)
+29/05/2018 12:11:55 ExecutionLog **************** Ticket Routing start *****************
+29/05/2018 12:12:06 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 12:12:09 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 12:12:13 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 12:12:14 ExecutionLog After JSWaiter.waitUntilAngularReady();
+29/05/2018 12:12:14 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+29/05/2018 12:12:14 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 12:12:18 ExecutionLog incMapArea : true
+29/05/2018 12:12:32 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 12:13:34 ExecutionLog **************** Ticket Routing start *****************
+29/05/2018 12:13:47 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 12:13:49 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 12:13:52 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 12:13:53 ExecutionLog After JSWaiter.waitUntilAngularReady();
+29/05/2018 12:13:53 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+29/05/2018 12:13:53 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 12:13:57 ExecutionLog incMapArea : true
+29/05/2018 12:14:10 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 12:14:19 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+29/05/2018 12:15:25 ExecutionLog **************** Ticket Routing start *****************
+29/05/2018 12:15:39 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 12:15:42 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 12:15:47 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 12:15:47 ExecutionLog After JSWaiter.waitUntilAngularReady();
+29/05/2018 12:15:47 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+29/05/2018 12:15:48 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 12:15:53 ExecutionLog incMapArea : true
+29/05/2018 12:15:53 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 12:15:53 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+29/05/2018 12:15:55 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+29/05/2018 12:17:07 ExecutionLog **************** Ticket Routing end *****************
+29/05/2018 12:17:07 ExecutionLog **************** Ticket Resolving start *****************
+29/05/2018 12:17:09 ExecutionLog ticketCount : 14
+29/05/2018 12:17:11 ExecutionLog After ExcelUtil.getClosureData();
+29/05/2018 12:18:18 ExecutionLog **************** Ticket Resolving end *****************
+29/05/2018 19:07:29 ExecutionLog **************** Ticket Resolving start *****************
+29/05/2018 19:07:37 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 19:08:13 ExecutionLog ticketCount : 16
+29/05/2018 19:08:51 ExecutionLog After ExcelUtil.getClosureData();
+29/05/2018 19:10:38 ExecutionLog **************** Ticket Resolving start *****************
+29/05/2018 19:10:47 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 19:10:58 ExecutionLog ticketCount : 16
+29/05/2018 19:11:00 ExecutionLog After ExcelUtil.getClosureData();
+29/05/2018 19:46:28 ExecutionLog **************** Ticket Routing start *****************
+29/05/2018 19:46:36 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 19:46:38 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 19:46:45 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 19:46:45 ExecutionLog After JSWaiter.waitUntilAngularReady();
+29/05/2018 19:46:45 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+29/05/2018 19:46:46 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 19:46:49 ExecutionLog incMapArea : true
+29/05/2018 19:46:49 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 19:46:50 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+29/05/2018 19:46:51 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+29/05/2018 19:47:49 ExecutionLog **************** Ticket Routing end *****************
+29/05/2018 19:48:36 ExecutionLog **************** Ticket Routing start *****************
+29/05/2018 19:48:43 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 19:48:45 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 19:48:48 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+29/05/2018 19:48:49 ExecutionLog After JSWaiter.waitUntilAngularReady();
+29/05/2018 19:48:49 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+29/05/2018 19:48:49 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 19:48:53 ExecutionLog incMapArea : true
+29/05/2018 19:48:53 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+29/05/2018 19:48:53 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+29/05/2018 19:48:54 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+29/05/2018 19:49:49 ExecutionLog **************** Ticket Routing end *****************
+29/05/2018 19:49:49 ExecutionLog **************** Ticket Resolving start *****************
+29/05/2018 19:49:55 ExecutionLog LoginPage elements initiated by Page Factory
+29/05/2018 19:50:05 ExecutionLog ticketCount : 10
+29/05/2018 19:50:06 ExecutionLog After ExcelUtil.getClosureData();
+29/05/2018 19:50:50 ExecutionLog **************** Ticket Resolving end *****************
+30/05/2018 15:42:44 ExecutionLog LoginPage elements initiated by Page Factory
+30/05/2018 15:42:46 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+30/05/2018 15:42:51 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+30/05/2018 15:42:52 ExecutionLog After JSWaiter.waitUntilAngularReady();
+30/05/2018 15:42:52 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+30/05/2018 15:42:52 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+30/05/2018 15:42:59 ExecutionLog incMapArea : true
+30/05/2018 15:42:59 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+30/05/2018 15:42:59 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+30/05/2018 15:43:00 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+30/05/2018 18:15:23 ExecutionLog LoginPage elements initiated by Page Factory
+30/05/2018 18:15:25 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+30/05/2018 18:15:30 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+30/05/2018 18:15:31 ExecutionLog After JSWaiter.waitUntilAngularReady();
+30/05/2018 18:15:32 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+30/05/2018 18:15:32 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+30/05/2018 18:15:36 ExecutionLog incMapArea : true
+30/05/2018 18:15:36 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+30/05/2018 18:15:37 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+30/05/2018 18:15:38 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+30/05/2018 18:18:08 ExecutionLog LoginPage elements initiated by Page Factory
+30/05/2018 18:18:10 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+30/05/2018 18:18:14 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+30/05/2018 18:18:15 ExecutionLog After JSWaiter.waitUntilAngularReady();
+30/05/2018 18:18:15 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+30/05/2018 18:18:15 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+30/05/2018 18:18:20 ExecutionLog incMapArea : true
+30/05/2018 18:18:20 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+30/05/2018 18:18:21 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+30/05/2018 18:18:22 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+30/05/2018 18:20:23 ExecutionLog LoginPage elements initiated by Page Factory
+30/05/2018 18:20:25 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+30/05/2018 18:20:31 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+30/05/2018 18:20:31 ExecutionLog After JSWaiter.waitUntilAngularReady();
+30/05/2018 18:20:32 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+30/05/2018 18:20:32 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+30/05/2018 18:20:35 ExecutionLog incMapArea : true
+30/05/2018 18:20:35 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+30/05/2018 18:20:35 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+30/05/2018 18:20:36 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+01/06/2018 17:52:35 ExecutionLog **************** Ticket Routing start *****************
+01/06/2018 17:52:49 ExecutionLog LoginPage elements initiated by Page Factory
+01/06/2018 17:52:51 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+01/06/2018 17:52:56 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+01/06/2018 17:52:57 ExecutionLog After JSWaiter.waitUntilAngularReady();
+01/06/2018 17:52:57 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+01/06/2018 17:52:57 ExecutionLog Before lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+01/06/2018 17:53:02 ExecutionLog incMapArea : true
+01/06/2018 17:53:02 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incMapArea, 10);
+01/06/2018 17:53:02 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.incMapArea);
+01/06/2018 17:53:03 ExecutionLog After lib.waitForPresenceOfElement(HomePage.AllApps.incidentsHeader, 10);
+01/06/2018 17:53:09 ExecutionLog **************** Ticket Routing end *****************
+01/06/2018 17:53:09 ExecutionLog **************** Ticket Resolving start *****************
+01/06/2018 17:53:11 ExecutionLog ticketCount : 2
+01/06/2018 17:53:13 ExecutionLog After ExcelUtil.getClosureData();
+01/06/2018 17:53:23 ExecutionLog **************** Ticket Resolving end *****************
+20/06/2018 17:05:58 ExecutionLog **************** Ticket Routing start *****************
+20/06/2018 17:06:11 ExecutionLog LoginPage elements initiated by Page Factory
+20/06/2018 17:06:12 ExecutionLog Before lib.ClickOnWebElement(HomePage.allAppsTab);
+20/06/2018 17:06:23 ExecutionLog After lib.ClickOnWebElement(HomePage.allAppsTab);
+20/06/2018 17:06:23 ExecutionLog After JSWaiter.waitUntilAngularReady();
+20/06/2018 17:06:33 ExecutionLog After lib.ClickOnWebElement(HomePage.AllApps.homePageLink);
+20/06/2018 17:06:53 ExecutionLog Exception : 
+org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for frame to be available: gsft_main
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir8_15421}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f267dcb304ecf33d121552e9f30a2cf1
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at com.wipro.automation.snow.lib.MyLibraryTest.SwitchToFrame(MyLibraryTest.java:349)
+	at test.RouteTickets.route(RouteTickets.java:49)
+	at test.Driver.autoAssignAndClose(Driver.java:29)
+	at test.Driver.main(Driver.java:18)
+24/07/2018 14:00:06 ExecutionLog LoginPage elements initiated by Page Factory
+24/07/2018 14:04:18 ExecutionLog LoginPage elements initiated by Page Factory
+24/07/2018 14:05:24 ExecutionLog LoginPage elements initiated by Page Factory
+24/07/2018 18:31:06 ExecutionLog LoginPage elements initiated by Page Factory
+24/07/2018 18:33:27 ExecutionLog LoginPage elements initiated by Page Factory
+24/07/2018 19:11:58 ExecutionLog LoginPage elements initiated by Page Factory
+24/07/2018 19:19:32 ExecutionLog LoginPage elements initiated by Page Factory
+24/07/2018 19:21:08 ExecutionLog LoginPage elements initiated by Page Factory
+25/07/2018 18:54:46 ExecutionLog LoginPage elements initiated by Page Factory
+25/07/2018 19:04:50 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 15:57:20 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 16:02:30 ExecutionLog Exception : 
+org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot find context with specified id"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 318 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir16040_32694}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 23f428d773d829dc1851974a48086d1d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:577)
+	at com.wipro.automation.snow.lib.JSWaiter.waitUntilAngularReady(JSWaiter.java:119)
+	at test.RouteTicketsGeneral.route(RouteTicketsGeneral.java:104)
+	at test.Driver.autoAssignGeneral(Driver.java:52)
+	at test.Driver.main(Driver.java:20)
+30/07/2018 16:05:56 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 16:06:06 ExecutionLog Exception : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 109 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir30344_29244}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: cf8af275f49c77568571d621cebf9088
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:179)
+	at test.RouteTicketsGeneral.route(RouteTicketsGeneral.java:54)
+	at test.Driver.autoAssignGeneral(Driver.java:51)
+	at test.Driver.main(Driver.java:20)
+30/07/2018 16:21:30 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 16:21:40 ExecutionLog Exception : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 73 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir31012_25377}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: dbaa8537bee6b7166901425ba8776d03
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:179)
+	at test.RouteTicketsGeneral.route(RouteTicketsGeneral.java:54)
+	at test.Driver.autoAssignGeneral(Driver.java:51)
+	at test.Driver.main(Driver.java:20)
+30/07/2018 16:41:21 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 16:41:30 ExecutionLog Exception : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 79 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir16392_32550}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 6fe823639859ea1a08a0ead5257024ca
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:179)
+	at test.RouteTicketsGeneral.route(RouteTicketsGeneral.java:55)
+	at test.Driver.autoAssignGeneral(Driver.java:51)
+	at test.Driver.main(Driver.java:20)
+30/07/2018 16:44:26 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 16:46:47 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 18:31:33 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 18:51:54 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 18:52:03 ExecutionLog Exception : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 79 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir33944_8026}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: b94f65a070cda86aec1c7e1eec2ba3df
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:179)
+	at test.RouteTicketsGeneral.route(RouteTicketsGeneral.java:60)
+	at test.Driver.autoAssignGeneral(Driver.java:51)
+	at test.Driver.main(Driver.java:20)
+30/07/2018 18:53:41 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 18:53:50 ExecutionLog Exception : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 79 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir30756_14722}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 28327ba3c1faaf981e24b9db84f21e18
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:179)
+	at test.RouteTicketsGeneral.route(RouteTicketsGeneral.java:60)
+	at test.Driver.autoAssignGeneral(Driver.java:51)
+	at test.Driver.main(Driver.java:20)
+30/07/2018 19:06:56 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 19:07:04 ExecutionLog Exception : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 85 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir35896_18382}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a0202dd562905cd2dbfbdeab4f7e1696
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:179)
+	at test.RouteTicketsGeneral.route(RouteTicketsGeneral.java:60)
+	at test.Driver.autoAssignGeneral(Driver.java:51)
+	at test.Driver.main(Driver.java:20)
+30/07/2018 19:13:33 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 19:36:17 ExecutionLog LoginPage elements initiated by Page Factory
+30/07/2018 19:36:26 ExecutionLog Exception : 
+org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot find context with specified id"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 82 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir37712_17266}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 3047d6c11548bb1ec563b35f1762fb8b
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:179)
+	at test.RouteTicketsGeneral.route(RouteTicketsGeneral.java:60)
+	at test.Driver.autoAssignGeneral(Driver.java:51)
+	at test.Driver.main(Driver.java:20)
+31/07/2018 14:37:52 ExecutionLog LoginPage elements initiated by Page Factory
+31/07/2018 14:38:03 ExecutionLog Exception : 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir6148_272}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: fcf4c395a53eedf320fc19cd5e7f2316
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:179)
+	at test.RouteTicketsGeneral.route(RouteTicketsGeneral.java:60)
+	at test.Driver.autoAssignGeneral(Driver.java:51)
+	at test.Driver.main(Driver.java:20)
+31/07/2018 14:40:00 ExecutionLog LoginPage elements initiated by Page Factory
+31/07/2018 14:52:17 ExecutionLog LoginPage elements initiated by Page Factory
+02/08/2018 13:30:43 ExecutionLog LoginPage elements initiated by Page Factory
+02/08/2018 15:01:37 ExecutionLog LoginPage elements initiated by Page Factory
+02/08/2018 15:09:59 ExecutionLog LoginPage elements initiated by Page Factory
+02/08/2018 15:24:04 ExecutionLog LoginPage elements initiated by Page Factory
+03/08/2018 12:41:11 ExecutionLog LoginPage elements initiated by Page Factory
+03/08/2018 12:42:43 ExecutionLog Exception : 
+org.openqa.selenium.WebDriverException: unknown error: angular is not defined
+  (Session info: chrome=68.0.3440.84)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 71 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'L-156153676', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\as762939\AppData\Local\Temp\scoped_dir18100_257}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=68.0.3440.84, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 25387e26c107445b2dacaf14a7cbd687
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:577)
+	at com.wipro.automation.snow.lib.JSWaiter.lambda$1(JSWaiter.java:52)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:238)
+	at com.wipro.automation.snow.lib.JSWaiter.waitForAngularLoad(JSWaiter.java:61)
+	at com.wipro.automation.snow.lib.JSWaiter.waitUntilAngularReady(JSWaiter.java:127)
+	at test.RouteTicketsGeneral.route(RouteTicketsGeneral.java:119)
+	at test.Driver.autoAssignGeneral(Driver.java:51)
+	at test.Driver.main(Driver.java:20)
+03/08/2018 12:43:20 ExecutionLog LoginPage elements initiated by Page Factory
