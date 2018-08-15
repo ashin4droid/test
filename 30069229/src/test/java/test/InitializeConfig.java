@@ -30,6 +30,7 @@ public class InitializeConfig
 	public void afterSuite()
 	{
 		report.flush();
+		report.close();
 	}
 	
 	

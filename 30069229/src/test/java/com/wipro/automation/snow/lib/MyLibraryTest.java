@@ -130,7 +130,7 @@ public class MyLibraryTest
 				
 				ChromeOptions chromeOptions = new ChromeOptions();
 				chromeOptions.addArguments("--start-maximized");
-				chromeOptions.addArguments("--disable-infobars");
+				//chromeOptions.addArguments("--disable-infobars");
 				chromeOptions.setExperimentalOption("prefs", chromePrefs);
 				chromeOptions.setExperimentalOption("excludeSwitches", Arrays.asList("enable-automation"));
 				

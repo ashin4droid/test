@@ -56,7 +56,7 @@ public class WorkflowTests
 		String adminLoginPageDisplayedPath = test.addScreenCapture(lib.getScreenShot(currentMethod, "IsAdminLoginPageDisplayed.jpg"));
 		test.log((adminLoginPageDisplayed ? LogStatus.PASS : LogStatus.FAIL), "Login Page Display", adminLoginPageDisplayedPath);
 		
-		test.log(LogStatus.INFO, "Navigsted to Login Page");
+		test.log(LogStatus.INFO, "Navigated to Login Page");
 		lib.SendTextToWebElement(AdminPage.Locators.USERNAME, AdminPage.USERNAME);
 		lib.SendTextToWebElement(AdminPage.Locators.PASSWORD, AdminPage.PASSWORD);
 		lib.ClickOnWebElement(AdminPage.Locators.LOGIN_BTN);
@@ -81,7 +81,7 @@ public class WorkflowTests
 		String loginPageDisplayedPath = test.addScreenCapture(lib.getScreenShot(currentMethod, "IsNonAdminLoginPageDisplayed.jpg"));
 		test.log((loginPageDisplayed ? LogStatus.PASS : LogStatus.FAIL), "Login Page Display", loginPageDisplayedPath);
 		
-		test.log(LogStatus.INFO, "Navigsted to Login Page");
+		test.log(LogStatus.INFO, "Navigated to Login Page");
 		lib.SendTextToWebElement(NonAdminPage.Locators.USERNAME, NonAdminPage.USERNAME);
 		lib.SendTextToWebElement(NonAdminPage.Locators.PASSWORD, NonAdminPage.PASSWORD);
 		lib.ClickOnWebElement(NonAdminPage.Locators.LOGIN_BTN);
@@ -166,7 +166,7 @@ public class WorkflowTests
 		test = report.startTest(method.getName());
 	}
 	
-	
+	//https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/
 	
 	
 	
