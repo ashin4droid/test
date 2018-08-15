@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="93610" started-at="2018-08-15T12:43:48Z" finished-at="2018-08-15T12:45:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="93610" started-at="2018-08-15T12:43:48Z" finished-at="2018-08-15T12:45:22Z">
+      <class name="test.InitializeConfig">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:test.InitializeConfig@69ea3742]" name="beforeSuite" is-config="true" duration-ms="398" started-at="2018-08-15T18:13:48Z" finished-at="2018-08-15T18:13:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.InitializeConfig@69ea3742]" name="afterSuite" is-config="true" duration-ms="414" started-at="2018-08-15T18:15:22Z" finished-at="2018-08-15T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- test.InitializeConfig -->
+      <class name="test.WorkflowTests">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:test.WorkflowTests@4b952a2d]" name="BeforeTest" is-config="true" duration-ms="0" started-at="2018-08-15T18:13:48Z" finished-at="2018-08-15T18:13:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.WorkflowTests@4b952a2d]" name="beforeMethod" is-config="true" duration-ms="3387" started-at="2018-08-15T18:13:48Z" finished-at="2018-08-15T18:13:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.WorkflowTests.WorkflowTests_TC01_Availability_Admin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="WorkflowTests_TC01_Availability_Admin()[pri:0, instance:test.WorkflowTests@4b952a2d]" name="WorkflowTests_TC01_Availability_Admin" duration-ms="41230" started-at="2018-08-15T18:13:52Z" finished-at="2018-08-15T18:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WorkflowTests_TC01_Availability_Admin -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.WorkflowTests@4b952a2d]" name="tearDown" is-config="true" duration-ms="1598" started-at="2018-08-15T18:14:33Z" finished-at="2018-08-15T18:14:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=WorkflowTests_TC01_Availability_Admin status=SUCCESS method=WorkflowTests.WorkflowTests_TC01_Availability_Admin()[pri:0, instance:test.WorkflowTests@4b952a2d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.WorkflowTests@4b952a2d]" name="beforeMethod" is-config="true" duration-ms="1503" started-at="2018-08-15T18:14:34Z" finished-at="2018-08-15T18:14:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.WorkflowTests.WorkflowTests_TC02_Availability_NonAdmin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="WorkflowTests_TC02_Availability_NonAdmin()[pri:0, instance:test.WorkflowTests@4b952a2d]" name="WorkflowTests_TC02_Availability_NonAdmin" duration-ms="44636" started-at="2018-08-15T18:14:36Z" finished-at="2018-08-15T18:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WorkflowTests_TC02_Availability_NonAdmin -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.WorkflowTests@4b952a2d]" name="tearDown" is-config="true" duration-ms="1202" started-at="2018-08-15T18:15:21Z" finished-at="2018-08-15T18:15:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=WorkflowTests_TC02_Availability_NonAdmin status=SUCCESS method=WorkflowTests.WorkflowTests_TC02_Availability_NonAdmin()[pri:0, instance:test.WorkflowTests@4b952a2d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.WorkflowTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

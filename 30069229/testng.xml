@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+	
+	<listeners>
+		<!-- <listener class-name="com.wipro.automation.snow.listeners.TestResultListener" /> -->
+		<!-- <listener class-name="testtest.ReportListener" /> -->
+	</listeners> <!-- listeners -->
+	
+	<test name="Test">
+		<classes>
+			<class name="test.InitializeConfig"/>
+			<class name="test.WorkflowTests">
+				<methods>
+					<include name="WorkflowTests_TC01_Availability_Admin"></include>
+					<include name="WorkflowTests_TC02_Availability_NonAdmin"></include>
+					<!-- <include name="WorkflowTests_TC04_GooglePageTest"></include> -->
+				</methods>
+			</class>
+			<!-- <class name="test.TriggerTests">
+				<methods>
+					<include name=""></include>
+					<include name=""></include>
+				</methods>
+			</class> -->
+		</classes>
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->

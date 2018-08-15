@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 16.028 s <<< FAILURE! - in TestSuite
+WorkflowTests_TC01_Availability_Admin(test.WorkflowTests)  Time elapsed: 0.016 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at test.WorkflowTests.WorkflowTests_TC01_Availability_Admin(WorkflowTests.java:51)
+
+TriggerTests_TC01_Availability_Admin(test.TriggerTests)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.ArithmeticException: / by zero
+	at test.TriggerTests.TriggerTests_TC01_Availability_Admin(TriggerTests.java:39)
+

@@ -1,0 +1,15 @@
+2018-08-14 11:54:16,685 freemarker.cache [DEBUG] 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-14 11:54:16,688 freemarker.cache [DEBUG] 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-14 11:54:16,691 freemarker.cache [DEBUG] 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-14 11:54:16,692 freemarker.cache [DEBUG] 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-14 11:54:16,696 freemarker.cache [DEBUG] 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/as762939/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-14 11:59:49,529 freemarker.cache [DEBUG] 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-14 11:59:49,532 freemarker.cache [DEBUG] 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-14 11:59:49,533 freemarker.cache [DEBUG] 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-14 11:59:49,534 freemarker.cache [DEBUG] 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-14 11:59:49,535 freemarker.cache [DEBUG] 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/as762939/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-08-14 12:02:00,374 freemarker.cache [DEBUG] 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-14 12:02:00,378 freemarker.cache [DEBUG] 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-08-14 12:02:00,379 freemarker.cache [DEBUG] 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-08-14 12:02:00,380 freemarker.cache [DEBUG] 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-08-14 12:02:00,385 freemarker.cache [DEBUG] 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/as762939/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
